@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} · {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav><a href="{{ '/table-of-contents/' | relative_url }}">Contents</a></nav>
+      </div>
+    </header>
+    <main class="wrap content">
+      {% if page.title %}<p class="eyebrow">{{ page.title }}</p>{% endif %}
+      {{ content }}
+    </main>
+    <footer class="wrap site-footer">
+      <a href="{{ '/' | relative_url }}">In Vivo</a> · <a href="{{ '/table-of-contents/' | relative_url }}">Contents</a>
+    </footer>
+  </body>
+</html>

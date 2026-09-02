@@ -1,0 +1,15 @@
+title: In Vivo
+description: Personal research notes on psychopharmacology, plants, and functional preparations.
+url: "https://aleph-1-research.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed

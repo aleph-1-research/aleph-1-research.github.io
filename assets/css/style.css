@@ -1,0 +1,16 @@
+* { box-sizing: border-box; }
+:root { color-scheme: light dark; --bg: #101316; --panel: #1a2026; --text: #e8edf2; --muted: #9eabb7; --accent: #9ecbff; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.7 Georgia, serif; }
+.wrap { width: min(900px, calc(100% - 2rem)); margin: 0 auto; }
+.site-header { border-bottom: 1px solid #303943; padding: 1rem 0; font-family: system-ui, sans-serif; }
+.site-header .wrap { display: flex; justify-content: space-between; gap: 1rem; }
+a { color: var(--accent); }
+.site-title { color: var(--text); font-weight: 700; text-decoration: none; }
+.content { padding: 3rem 0; min-height: 70vh; }
+.content h1, .content h2, .content h3 { line-height: 1.2; }
+.content h1 { font-size: clamp(2rem, 6vw, 3.5rem); }
+.eyebrow { color: var(--muted); font: 0.8rem/1.2 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+img { max-width: 100%; height: auto; }
+.site-footer { border-top: 1px solid #303943; color: var(--muted); font: .9rem system-ui, sans-serif; padding: 1.5rem 0 3rem; }
+blockquote { border-left: 3px solid var(--accent); margin-left: 0; padding-left: 1rem; color: var(--muted); }
+code { background: var(--panel); padding: .1em .3em; }
