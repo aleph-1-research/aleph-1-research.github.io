@@ -5,7 +5,11 @@ import re
 import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
+SOURCE = ROOT / "In Vivo"
 DEST = ROOT / "_build"
+
+if not SOURCE.is_dir():
+    raise SystemExit(f"Source directory not found: {SOURCE}")
 
 if DEST.exists():
     shutil.rmtree(DEST)
@@ -57,10 +61,10 @@ def transform(text: str) -> str:
 
     return re.sub(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", link, text)
 
-for source in ROOT.rglob("*"):
+for source in SOURCE.rglob("*"):
     if not source.is_file() or any(part in SKIP_DIRS for part in source.parts):
         continue
-    relative = source.relative_to(ROOT)
+    relative = source.relative_to(SOURCE)
     if relative.parts and relative.parts[0] in {"scripts", "_plugins"}:
         continue
     destination = DEST / relative
