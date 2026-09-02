@@ -1,8 +1,23 @@
-← [[3-MMC|Previous]] · [[Table of Contents|Contents]] · [[MDMA|Next]] →
+← [[3-MMC|Previous]] · [[Table of Contents|Contents]] · [[Stimulants|Stimulants]] · [[MDMA|Next]] →
+
+### Ingestion Methods
 
 
+### Dosage
 
-##### Harm Raeduction
+
+### Effects
+
+
+### Harm Reduction
+
+
+### Interactions
+
+
+### Experiments
+
+##### Harm Reduction
 
 Very limited information is available on the potential impacts of this chemical.  Given its similarity to MDMA my intuition is that one would risk overtaxing the serotonin system if done frequently, so personally I will treat it like that and not do this chemical frequency.  Probably for the best anyway, it's quite expensive.
 
@@ -25,4 +40,4 @@ Two days after both I and my partner noticed that we were irritable in a way tha
 
 
 
-← [[3-MMC|Previous]] · [[Table of Contents|Contents]] · [[MDMA|Next]] →
+← [[3-MMC|Previous]] · [[Table of Contents|Contents]] · [[Stimulants|Stimulants]] · [[MDMA|Next]] →

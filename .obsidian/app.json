@@ -1,3 +1,8 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_plugins/",
+    "_layouts/",
+    "_build/"
+  ]
 }

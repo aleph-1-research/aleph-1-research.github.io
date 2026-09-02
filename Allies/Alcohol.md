@@ -1,6 +1,21 @@
-← [[Depressants|Previous]] · [[Table of Contents|Contents]] · [[Phenibut|Next]] →
+← [[Depressants|Previous]] · [[Table of Contents|Contents]] · [[Depressants|Depressants]] · [[Phenibut|Next]] →
+
+### Ingestion Methods
 
 
+### Dosage
+
+
+### Effects
+
+
+### Harm Reduction
+
+
+### Interactions
+
+
+### Experiments
 
 ##### A Note on Drug Interactions
 
@@ -8,4 +23,4 @@ Alcohol is one of those drugs that doesn't play well with others. As you'll see 
 
 
 
-← [[Depressants|Previous]] · [[Table of Contents|Contents]] · [[Phenibut|Next]] →
+← [[Depressants|Previous]] · [[Table of Contents|Contents]] · [[Depressants|Depressants]] · [[Phenibut|Next]] →

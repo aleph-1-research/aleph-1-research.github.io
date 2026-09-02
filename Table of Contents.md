@@ -1,7 +1,8 @@
+[[Table of Contents|Contents]] · [[Introduction|Next]] →
+
 # [[In Vivo]]
 Written by [[Aleph]]
 
-[[Table of Contents|Contents]] · [[Introduction|Next]] →
 #### Table of Contents
 
 ##### Introduction

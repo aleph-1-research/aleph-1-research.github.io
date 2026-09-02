@@ -1,11 +1,24 @@
-← [[Alcohol|Previous]] · [[Table of Contents|Contents]] · [[GHB|Next]] →
+← [[Alcohol|Previous]] · [[Table of Contents|Contents]] · [[Depressants|Depressants]] · [[GHB|Next]] →
+
+### Ingestion Methods
 
 
+### Dosage
 
-##### Experiments
+
+### Effects
+
+
+### Harm Reduction
+
+
+### Interactions
+
+
+### Experiments
 
 Oral - 1 gram - I mixed 1 gram of the powder with some tap water, gave it swirl, and put it in my mouth about an hour after waking up on an empty stomache.   The effects have been subtle and hard to perceive.  Anxiety hasn't been huge recently, so difficult to assess its effect there.  I do feel like I'm perceiving some change in the Ketamine and Cocaine I've consumed today, however the difference is not dramatic.  I have found that I'm more irritable today that usual, which is a bit strange and I'm curious if phenibut is the cause of that. 
 
 
 
-← [[Alcohol|Previous]] · [[Table of Contents|Contents]] · [[GHB|Next]] →
+← [[Alcohol|Previous]] · [[Table of Contents|Contents]] · [[Depressants|Depressants]] · [[GHB|Next]] →

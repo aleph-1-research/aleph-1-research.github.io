@@ -1,6 +1,21 @@
-← [[Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Plant Allies|Next]] →
+← [[Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Nootropics|Nootropics]] · [[Plant Allies|Next]] →
+
+### Ingestion Methods
 
 
+### Dosage
+
+
+### Effects
+
+
+### Harm Reduction
+
+
+### Interactions
+
+
+### Experiments
 
 ##### Experiments
 
@@ -8,4 +23,4 @@
 
 
 
-← [[Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Plant Allies|Next]] →
+← [[Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Nootropics|Nootropics]] · [[Plant Allies|Next]] →

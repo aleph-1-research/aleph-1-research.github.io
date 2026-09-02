@@ -3,7 +3,7 @@
 
 
 - [[Cannabis]]
-- [[#LSD]]
+- [[Allies/LSD|LSD]]
 - [[Pscilocybin]]
 - [[DMT]]
 - [[2C-B]]

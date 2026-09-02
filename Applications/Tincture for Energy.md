@@ -1,4 +1,4 @@
-← [[Applications|Previous]] · [[Table of Contents|Contents]] · [[Mosquito Repellent|Next]] →
+← [[Applications|Previous]] · [[Table of Contents|Contents]] · [[Applications|Applications]] · [[Mosquito Repellent|Next]] →
 
 
 
@@ -8,4 +8,4 @@ Equal parts Yerba Mate, Chocolate, and Lemon Balm.  Combine in jar with at least
 
 
 
-← [[Applications|Previous]] · [[Table of Contents|Contents]] · [[Mosquito Repellent|Next]] →
+← [[Applications|Previous]] · [[Table of Contents|Contents]] · [[Applications|Applications]] · [[Mosquito Repellent|Next]] →
