@@ -11,8 +11,9 @@ This section is based off of a talk that I prepared for the community in 2026.  
 3. [[#Drug Interactions]]
 4. [[#Testing]]
 5. [[#Harm Reduction]]
-6. [[#Addiction & Compulsive Redosing]]
-7. [[#Accepting Imperenance]]
+6. [[#Tolerance]]
+7. [[#Addiction & Compulsive Redosing]]
+8. [[#Accepting Imperenance]]
 
 ### Set and Setting
 
@@ -20,8 +21,14 @@ Drugs are mysterious creatures.  When we consume a drug there is a tendency to b
 
 ### Dosage
 
-Measuring is helpful. The experience we have on a drugs is in proportion to, but not necessary linear with the dosage we do.  For example, the difference between one and two hits of 50 µg acid is pretty negligable.  The experience is stronger but not radically different.  However at some point between 4-6 hits, and depending on set and setting of course, the experience makes a jump to another level.  At this dosage I am very likely to spending at least an hour or two laying down with my eyes closed, having an internal experience.  This pattern is true with many drugs, through the next level of the experience varies greatly depending on the chemical.  It is a fast track to having a bad time if you induce this experience within yourself accidentally. So be careful, attend your dosage, and as you explore higher dosages beware of the risks.
+Measuring is helpful. The experience we have on a drugs is in proportion to, but not necessary linear with the dosage we do.  For example, the difference between one and two hits of 50 µg acid is pretty negligible.  The experience is stronger but not radically different.  However at some point between 4-6 hits, and depending on set and setting of course, the experience makes a jump to another level.  At this dosage I am very likely to spending at least an hour or two laying down with my eyes closed, having an internal experience.  This pattern is true with many drugs, through the next level of the experience varies greatly depending on the chemical.  It is a fast track to having a bad time if you induce this experience within yourself accidentally. So be careful, attend your dosage, and as you explore higher dosages beware of the risks.
 
+##### Safety Ratio
+
+One thing to be aware of when dosing a drug is the safety ratio or therapeutic index.  This is the ratio between the effective dose and the lethal dose.  The smaller that ratio is, the more dangerous.  
+
+![[Safety Ratio.png]]
+[Safety Ratio Chart](https://www.reddit.com/r/dataisbeautiful/comments/1srrql5/oc_a_comparison_of_the_acute_lethal_toxicity_of/#lightbox)
 ###### A Protocol for New Drugs & New Batches
 
 Every batch of a drug is different.  The specific concentration of the active compound can vary widely.  For me there are two ways to manage that. If available, I try to use a concentration test on the drug.  This is available for LSD, cocaine, MDMA, and other drugs through [Bunk Police](https://bunkpolice.com/product-category/qtest-purity-test-kits/?_gl=1*jdeli0*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAzvVdfXZcUrYj-k29Rd3noXMyfDMEEjHqAn13kM9qct-djnOJNfkRMaAqgrEALw_wcB&gbraid=0AAAAAC4Z792hIwSDZkpKt6PEwsPVl3QJ2). 
@@ -50,6 +57,10 @@ What exactly you should test for depends on the chemical.  Vendors like [DanceSa
 ### Harm Reduction
 
 This is a hard topic and is very specific to the chemical you're interacting with.  I would say in general, try to understand how a drug is damaging to the body.  Provide support to your body where you can, and be aware that in every case doing a drug all the time is destructive to your body.  Finding balance with a drug is a core part of harm reduction. I give more specific advice for managing harm reduction in my discussion of individual chemicals later in this book.
+
+### Tolerance
+
+Sometimes we use a drug regularly, get used to certain level of dosage, and then take a break.  When returning to the drug, recalibration is required. Don't assume you can do the same amount you used to.  This can be very dangerous, and is a good way to overdose particularly with drugs that have lower safety ratios. 
 ### Addiction & Compulsive Redosing
 
 Some time ago I [watched a lecture](https://www.youtube.com/watch?v=aOSD9rTVuWc) by [[Marc Lewis]] based on their book called [[The Biology of Desire]] which completely changed how I think about addiction. After watching the lecture I read the book, and have found in my life that it has provided the most useful model of addiction that I've encountered. In this section I will provide some thoughts on how I currently think about addiction highly informed by Marc's work.
