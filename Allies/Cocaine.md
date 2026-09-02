@@ -1,5 +1,3 @@
-# Cocaine
-
 ← [[Stimulants|Previous]] · [[Table of Contents|Contents]] · [[Caffeine|Next]] →
 
 

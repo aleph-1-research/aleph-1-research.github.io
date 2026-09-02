@@ -1,5 +1,3 @@
-# GHB
-
 ← [[Phenibut|Previous]] · [[Table of Contents|Contents]] · [[Stimulants|Next]] →
 
 

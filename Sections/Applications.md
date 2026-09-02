@@ -6,7 +6,7 @@ Tinctures
 - [[Tincture for Energy]]
 Sprays
 - [[Mosquito Repellent]]
-
+Lotion
 - [[Body Lotion]]
 
 

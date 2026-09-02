@@ -1,5 +1,3 @@
-# Ketamine
-
 ← [[Dissociatives|Previous]] · [[Table of Contents|Contents]] · [[Nitrous Oxide|Next]] →
 
 

@@ -1,5 +1,3 @@
-# CK
-
 ← [[Polysubstances|Previous]] · [[Table of Contents|Contents]] · [[Nootropics|Next]] →
 
 

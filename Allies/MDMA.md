@@ -1,5 +1,3 @@
-# MDMA
-
 ← [[4-MMC|Previous]] · [[Table of Contents|Contents]] · [[Polysubstances|Next]] →
 
 

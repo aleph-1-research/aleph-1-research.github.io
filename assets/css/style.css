@@ -8,7 +8,7 @@ a { color: var(--accent); }
 .site-title { color: var(--text); font-weight: 700; text-decoration: none; }
 .content { padding: 3rem 0; min-height: 70vh; }
 .content h1, .content h2, .content h3 { line-height: 1.2; }
-.content h1 { font-size: clamp(2rem, 6vw, 3.5rem); }
+.document-title { font-size: clamp(2rem, 6vw, 3.5rem); margin: 0 0 1.5rem; }
 .eyebrow { color: var(--muted); font: 0.8rem/1.2 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
 img { max-width: 100%; height: auto; }
 .site-footer { border-top: 1px solid #303943; color: var(--muted); font: .9rem system-ui, sans-serif; padding: 1.5rem 0 3rem; }

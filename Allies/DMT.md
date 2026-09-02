@@ -1,5 +1,3 @@
-# DMT
-
 ← [[Pscilocybin|Previous]] · [[Table of Contents|Contents]] · [[2C-B|Next]] →
 
 

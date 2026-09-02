@@ -1,5 +1,3 @@
-# Pscilocybin
-
 ← [[Cannabis|Previous]] · [[Table of Contents|Contents]] · [[DMT|Next]] →
 
 

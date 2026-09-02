@@ -1,5 +1,3 @@
-# 2C-E
-
 ← [[2C-D|Previous]] · [[Table of Contents|Contents]] · [[2C-I|Next]] →
 
 

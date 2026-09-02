@@ -1,5 +1,3 @@
-# Caffeine
-
 ← [[Cocaine|Previous]] · [[Table of Contents|Contents]] · [[Nicotine|Next]] →
 
 

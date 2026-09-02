@@ -1,5 +1,3 @@
-# Cannabis
-
 ← [[Psychedelics|Previous]] · [[Table of Contents|Contents]] · [[Pscilocybin|Next]] →
 
 
