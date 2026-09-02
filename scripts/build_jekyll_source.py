@@ -70,7 +70,8 @@ for source in ROOT.rglob("*"):
         if relative.name != "index.md":
             title = source.stem
             permalink = "/" + slug(title) + "/"
-            front_matter = f"---\nlayout: default\ntitle: {title}\npermalink: {permalink}\n---\n\n"
+            show_title = "false" if relative.name == "Table of Contents.md" else "true"
+            front_matter = f"---\nlayout: default\ntitle: {title}\nshow_title: {show_title}\npermalink: {permalink}\n---\n\n"
             body = front_matter + body
         destination.write_text(body, encoding="utf-8")
     elif source.suffix.lower() in IMAGE_EXTENSIONS:

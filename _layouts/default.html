@@ -15,7 +15,7 @@
       </div>
     </header>
     <main class="wrap content">
-      {% if page.title %}<h1 class="document-title">{{ page.title }}</h1>{% endif %}
+      {% if page.title and page.show_title != false %}<h1 class="document-title">{{ page.title }}</h1>{% endif %}
       {{ content }}
     </main>
     <footer class="wrap site-footer">
