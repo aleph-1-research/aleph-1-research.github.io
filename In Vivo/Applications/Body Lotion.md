@@ -1,4 +1,4 @@
-← [[In Vivo/Applications/Mosquito Repellent|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Resources/References|Next]] →
+← [[Applications/Mosquito Repellent|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Resources/References|Next]] →
 
 
 
@@ -6,4 +6,4 @@
 
 
 
-← [[In Vivo/Applications/Mosquito Repellent|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Resources/References|Next]] →
+← [[Applications/Mosquito Repellent|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Resources/References|Next]] →

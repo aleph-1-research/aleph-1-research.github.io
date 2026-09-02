@@ -1,9 +1,9 @@
-← [[In Vivo/Allies/CK|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Modafinal|Next]] →
+← [[Allies/CK|Previous]] · [[Table of Contents|Contents]] · [[Allies/Modafinal|Next]] →
 
 
 
-- [[In Vivo/Allies/Modafinal]]
+- [[Allies/Modafinal|Modafinal]]
 
 
 
-← [[In Vivo/Allies/CK|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Modafinal|Next]] →
+← [[Allies/CK|Previous]] · [[Table of Contents|Contents]] · [[Allies/Modafinal|Next]] →

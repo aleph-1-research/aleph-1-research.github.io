@@ -1,10 +1,10 @@
-← [[In Vivo/Allies/2C-I|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Ketamine|Next]] →
+← [[Allies/2C-I|Previous]] · [[Table of Contents|Contents]] · [[Allies/Ketamine|Next]] →
 
 
 
-- [[In Vivo/Allies/Ketamine]]
-- [[In Vivo/Allies/Nitrous Oxide]]
+- [[Allies/Ketamine|Ketamine]]
+- [[Allies/Nitrous Oxide|Nitrous Oxide]]
 
 
 
-← [[In Vivo/Allies/2C-I|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Ketamine|Next]] →
+← [[Allies/2C-I|Previous]] · [[Table of Contents|Contents]] · [[Allies/Ketamine|Next]] →

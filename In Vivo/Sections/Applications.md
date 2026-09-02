@@ -1,14 +1,14 @@
-← [[In Vivo/Sections/Plant Allies|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Applications/Tincture for Energy|Next]] →
+← [[Sections/Plant Allies|Previous]] · [[Table of Contents|Contents]] · [[Applications/Tincture for Energy|Next]] →
 
 
 
 Tinctures
-- [[In Vivo/Applications/Tincture for Energy]]
+- [[Applications/Tincture for Energy|Tincture for Energy]]
 Sprays
-- [[In Vivo/Applications/Mosquito Repellent]]
+- [[Applications/Mosquito Repellent|Mosquito Repellent]]
 Lotion
-- [[In Vivo/Applications/Body Lotion]]
+- [[Applications/Body Lotion|Body Lotion]]
 
 
 
-← [[In Vivo/Sections/Plant Allies|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Applications/Tincture for Energy|Next]] →
+← [[Sections/Plant Allies|Previous]] · [[Table of Contents|Contents]] · [[Applications/Tincture for Energy|Next]] →

@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Cocaine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/Nicotine|Next]] →
+← [[Allies/Cocaine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/Nicotine|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/Cocaine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/Nicotine|Next]] →
+← [[Allies/Cocaine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/Nicotine|Next]] →

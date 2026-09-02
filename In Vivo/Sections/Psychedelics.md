@@ -1,16 +1,16 @@
-← [[In Vivo/How To Use Drugs|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Cannabis|Next]] →
+← [[How To Use Drugs|Previous]] · [[Table of Contents|Contents]] · [[Allies/Cannabis|Next]] →
 
 
 
-- [[In Vivo/Allies/Cannabis]]
-- [[In Vivo/Allies/LSD|LSD]]
-- [[In Vivo/Allies/Pscilocybin]]
-- [[In Vivo/Allies/DMT]]
-- [[In Vivo/Allies/2C-B]]
-- [[In Vivo/Allies/2C-D]]
-- [[In Vivo/Allies/2C-E]]
-- [[In Vivo/Allies/2C-I]]
+- [[Allies/Cannabis|Cannabis]]
+- [[Allies/LSD|LSD]]
+- [[Allies/Pscilocybin|Pscilocybin]]
+- [[Allies/DMT|DMT]]
+- [[Allies/2C-B|2C-B]]
+- [[Allies/2C-D|2C-D]]
+- [[Allies/2C-E|2C-E]]
+- [[Allies/2C-I|2C-I]]
 
 
 
-← [[In Vivo/How To Use Drugs|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Cannabis|Next]] →
+← [[How To Use Drugs|Previous]] · [[Table of Contents|Contents]] · [[Allies/Cannabis|Next]] →

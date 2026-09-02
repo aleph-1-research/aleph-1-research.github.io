@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Modafinal|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Next]] →
+← [[Allies/Modafinal|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Next]] →
 
 
 
@@ -17,4 +17,4 @@
 
 
 
-← [[In Vivo/Allies/Modafinal|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Next]] →
+← [[Allies/Modafinal|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Next]] →

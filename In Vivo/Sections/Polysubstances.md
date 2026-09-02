@@ -1,9 +1,9 @@
-← [[In Vivo/Allies/MDMA|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/CK|Next]] →
+← [[Allies/MDMA|Previous]] · [[Table of Contents|Contents]] · [[Allies/CK|Next]] →
 
 
 
-- [[In Vivo/Allies/CK]]
+- [[Allies/CK|CK]]
 
 
 
-← [[In Vivo/Allies/MDMA|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/CK|Next]] →
+← [[Allies/MDMA|Previous]] · [[Table of Contents|Contents]] · [[Allies/CK|Next]] →

@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Amphetamine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/4-MMC|Next]] →
+← [[Allies/Amphetamine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/4-MMC|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/Amphetamine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/4-MMC|Next]] →
+← [[Allies/Amphetamine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/4-MMC|Next]] →

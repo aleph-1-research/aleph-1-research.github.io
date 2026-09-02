@@ -1,26 +1,26 @@
-[[In Vivo/Table of Contents|Contents]] · [[In Vivo/Introduction|Next]] →
+[[Table of Contents|Contents]] · [[Introduction|Next]] →
 
-# [[In Vivo/In Vivo]]
-Written by [[In Vivo/Aleph]]
+# [[In Vivo]]
+Written by [[Aleph]]
 
 #### Table of Contents
 
 ##### Introduction
-1. [[In Vivo/Introduction]]
-2. [[In Vivo/How To Use Drugs]]
+1. [[Introduction]]
+2. [[How To Use Drugs]]
 ##### Allies
-1. [[In Vivo/Sections/Psychedelics]]
-2. [[In Vivo/Sections/Dissociatives]]
-3. [[In Vivo/Sections/Depressants]]
-4. [[In Vivo/Sections/Stimulants]]
-5. [[In Vivo/Sections/Polysubstances]]
-6. [[In Vivo/Sections/Nootropics]]
-7. [[In Vivo/Sections/Plant Allies]]
+1. [[Sections/Psychedelics|Psychedelics]]
+2. [[Sections/Dissociatives|Dissociatives]]
+3. [[Sections/Depressants|Depressants]]
+4. [[Sections/Stimulants|Stimulants]]
+5. [[Sections/Polysubstances|Polysubstances]]
+6. [[Sections/Nootropics|Nootropics]]
+7. [[Sections/Plant Allies|Plant Allies]]
 ##### Applications
-1. [[In Vivo/Sections/Applications]]
+1. [[Sections/Applications|Applications]]
 ##### Resources
-1. [[In Vivo/Resources/References]]
+1. [[Resources/References|References]]
 
 
 
-[[In Vivo/Table of Contents|Contents]] · [[In Vivo/Introduction|Next]] →
+[[Table of Contents|Contents]] · [[Introduction|Next]] →

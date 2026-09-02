@@ -1,4 +1,4 @@
-← [[In Vivo/Sections/Nootropics|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Nootropics|Nootropics]] · [[In Vivo/Sections/Plant Allies|Next]] →
+← [[Sections/Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Sections/Nootropics|Nootropics]] · [[Sections/Plant Allies|Next]] →
 
 ### Ingestion Methods
 
@@ -23,4 +23,4 @@
 
 
 
-← [[In Vivo/Sections/Nootropics|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Nootropics|Nootropics]] · [[In Vivo/Sections/Plant Allies|Next]] →
+← [[Sections/Nootropics|Previous]] · [[Table of Contents|Contents]] · [[Sections/Nootropics|Nootropics]] · [[Sections/Plant Allies|Next]] →

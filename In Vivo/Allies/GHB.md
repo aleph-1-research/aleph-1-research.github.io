@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Phenibut|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Depressants|Depressants]] · [[In Vivo/Sections/Stimulants|Next]] →
+← [[Allies/Phenibut|Previous]] · [[Table of Contents|Contents]] · [[Sections/Depressants|Depressants]] · [[Sections/Stimulants|Next]] →
 
 
 ### Ingestion Methods
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/Phenibut|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Depressants|Depressants]] · [[In Vivo/Sections/Stimulants|Next]] →
+← [[Allies/Phenibut|Previous]] · [[Table of Contents|Contents]] · [[Sections/Depressants|Depressants]] · [[Sections/Stimulants|Next]] →

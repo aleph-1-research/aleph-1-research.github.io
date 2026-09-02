@@ -1,4 +1,4 @@
-← [[In Vivo/Table of Contents|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/How To Use Drugs|Next]] →
+← [[Table of Contents|Previous]] · [[Table of Contents|Contents]] · [[How To Use Drugs|Next]] →
 
 
 
@@ -8,4 +8,4 @@ A warning.  Science is inherently risky. When you make your own body the laborat
 
 
 
-← [[In Vivo/Table of Contents|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/How To Use Drugs|Next]] →
+← [[Table of Contents|Previous]] · [[Table of Contents|Contents]] · [[How To Use Drugs|Next]] →

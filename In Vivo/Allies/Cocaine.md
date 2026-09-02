@@ -1,4 +1,4 @@
-← [[In Vivo/Sections/Stimulants|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/Caffeine|Next]] →
+← [[Sections/Stimulants|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/Caffeine|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Sections/Stimulants|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/Caffeine|Next]] →
+← [[Sections/Stimulants|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/Caffeine|Next]] →

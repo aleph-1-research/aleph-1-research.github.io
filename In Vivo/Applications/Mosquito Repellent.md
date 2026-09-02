@@ -1,4 +1,4 @@
-← [[In Vivo/Applications/Tincture for Energy|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Applications/Body Lotion|Next]] →
+← [[Applications/Tincture for Energy|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Applications/Body Lotion|Next]] →
 
 
 
@@ -6,4 +6,4 @@
 
 
 
-← [[In Vivo/Applications/Tincture for Energy|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Applications/Body Lotion|Next]] →
+← [[Applications/Tincture for Energy|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Applications/Body Lotion|Next]] →

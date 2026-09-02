@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/2C-D|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Psychedelics]] · [[In Vivo/Allies/2C-I|Next]] →
+← [[Allies/2C-D|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Psychedelics]] · [[Allies/2C-I|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/2C-D|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Psychedelics]] · [[In Vivo/Allies/2C-I|Next]] →
+← [[Allies/2C-D|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Psychedelics]] · [[Allies/2C-I|Next]] →

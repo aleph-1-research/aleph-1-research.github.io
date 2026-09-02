@@ -1,4 +1,4 @@
-← [[In Vivo/Introduction|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Next]] →
+← [[Introduction|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Next]] →
 
 
 
@@ -27,22 +27,22 @@ Measuring is helpful. The experience we have on a drugs is in proportion to, but
 
 One thing to be aware of when dosing a drug is the safety ratio or therapeutic index.  This is the ratio between the effective dose and the lethal dose.  The smaller that ratio is, the more dangerous.  
 
-![[In Vivo/Resources/Safety Ratio.png]]
+![[Resources/Safety Ratio.png]]
 [Safety Ratio Chart](https://www.reddit.com/r/dataisbeautiful/comments/1srrql5/oc_a_comparison_of_the_acute_lethal_toxicity_of/#lightbox)
 ###### A Protocol for New Drugs & New Batches
 
 Every batch of a drug is different.  The specific concentration of the active compound can vary widely.  For me there are two ways to manage that. If available, I try to use a concentration test on the drug.  This is available for LSD, cocaine, MDMA, and other drugs through [Bunk Police](https://bunkpolice.com/product-category/qtest-purity-test-kits/?_gl=1*jdeli0*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwkt_UBhDMARIsALpnOAzvVdfXZcUrYj-k29Rd3noXMyfDMEEjHqAn13kM9qct-djnOJNfkRMaAqgrEALw_wcB&gbraid=0AAAAAC4Z792hIwSDZkpKt6PEwsPVl3QJ2). 
 
-Alternatively, when I first doing a drug from a new batch and I'm uncertain how strong it is I start by doing a "standard unit".  This might be 1 tab of [[In Vivo/Allies/LSD]], a 60 µg bump of [[In Vivo/Allies/Ketamine|Ketamine]], etc... It depends on the drug, and the exactly amount isn't important. What's important is that it's relatively low, and that you have expectations about what the experience will be like.  Once you then have the experience, you can calibrate yourself.  Is the experience more powerful than you expected? Less?  That can give some sense of how to dose this specific batch.
+Alternatively, when I first doing a drug from a new batch and I'm uncertain how strong it is I start by doing a "standard unit".  This might be 1 tab of [[Allies/LSD]], a 60 µg bump of [[Allies/Ketamine|Ketamine]], etc... It depends on the drug, and the exactly amount isn't important. What's important is that it's relatively low, and that you have expectations about what the experience will be like.  Once you then have the experience, you can calibrate yourself.  Is the experience more powerful than you expected? Less?  That can give some sense of how to dose this specific batch.
 
-Now what if you haven't done the drug before?  I first start with [[In Vivo/Resources/PsychonautWiki]].  It provides standard dosages for most drugs you're likely to interact with.  For a first experience I tend to choose a dosage in the common range. One thing to keep in mind is that our bodies respond to drugs differently, and it is possibly for your body to be more or less sensitive to the drug relative to what is recommended.  So I like to start by taking a fraction of the dosage I intend to do. I'll let me body ingest that and wait enough time that onset begins to occur, and I will see if my body is reacting very strongly to what should be a very low dosage.  If my body doesn't pop off, then I assume that I'm probably not hypersensitive to the drug and I proceed with consuming the rest of the dosage.
+Now what if you haven't done the drug before?  I first start with [[Resources/PsychonautWiki]].  It provides standard dosages for most drugs you're likely to interact with.  For a first experience I tend to choose a dosage in the common range. One thing to keep in mind is that our bodies respond to drugs differently, and it is possibly for your body to be more or less sensitive to the drug relative to what is recommended.  So I like to start by taking a fraction of the dosage I intend to do. I'll let me body ingest that and wait enough time that onset begins to occur, and I will see if my body is reacting very strongly to what should be a very low dosage.  If my body doesn't pop off, then I assume that I'm probably not hypersensitive to the drug and I proceed with consuming the rest of the dosage.
 
-If you're given a drug and you either don't know its name or you cannot find it on [[In Vivo/Resources/PsychonautWiki]], proceed with caution.  How would you dose such a drug?  [[In Vivo/Resources/Sasha Shulgin]] once offered a protocol for such a situation. You basically need to do as little as possible.  Consider that [[Fentanyl]] is effective at 5 µg. So if you assume the drug is effective at the mg range and it turns out to be [[Fentanyl]]... You've killed yourself. So in this situation you need to start incredibly small.  Pretend its [[Fentanyl]], and dose yourself accordingly. If we're being honest, I think this protocol is probably more advanced that most people are prepared for, and I really don't recommend anyone do this unless they understand the risks. 
+If you're given a drug and you either don't know its name or you cannot find it on [[Resources/PsychonautWiki]], proceed with caution.  How would you dose such a drug?  [[Resources/Sasha Shulgin]] once offered a protocol for such a situation. You basically need to do as little as possible.  Consider that [[Fentanyl]] is effective at 5 µg. So if you assume the drug is effective at the mg range and it turns out to be [[Fentanyl]]... You've killed yourself. So in this situation you need to start incredibly small.  Pretend its [[Fentanyl]], and dose yourself accordingly. If we're being honest, I think this protocol is probably more advanced that most people are prepared for, and I really don't recommend anyone do this unless they understand the risks. 
 ### Drug Interactions
 
 Drugs interact in our body. Sometimes in great ways, and other times they become much more dangerous.  If you are on an antidepressant, you will need to understand which one you are and how it will interact with other drugs.  The chart below has been one of the most helpful resources I have found for drug interactions I haven't explored. 
 
-![[In Vivo/Resources/Drug Interaction Chart.png]][[In Vivo/Resources/References#^knowyourstuff-more-drugs|Many thanks to Know Your Stuff for compiling this chart]]
+![[Resources/Drug Interaction Chart.png]][[Resources/References#^knowyourstuff-more-drugs|Many thanks to Know Your Stuff for compiling this chart]]
 
 ### Testing
 
@@ -63,7 +63,7 @@ This is a hard topic and is very specific to the chemical you're interacting wit
 Sometimes we use a drug regularly, get used to certain level of dosage, and then take a break.  When returning to the drug, recalibration is required. Don't assume you can do the same amount you used to.  This can be very dangerous, and is a good way to overdose particularly with drugs that have lower safety ratios. 
 ### Addiction & Compulsive Redosing
 
-Some time ago I [watched a lecture](https://www.youtube.com/watch?v=aOSD9rTVuWc) by [[Marc Lewis]] based on their book called [[In Vivo/Resources/The Biology of Desire]] which completely changed how I think about addiction. After watching the lecture I read the book, and have found in my life that it has provided the most useful model of addiction that I've encountered. In this section I will provide some thoughts on how I currently think about addiction highly informed by Marc's work.
+Some time ago I [watched a lecture](https://www.youtube.com/watch?v=aOSD9rTVuWc) by [[Marc Lewis]] based on their book called [[Resources/The Biology of Desire]] which completely changed how I think about addiction. After watching the lecture I read the book, and have found in my life that it has provided the most useful model of addiction that I've encountered. In this section I will provide some thoughts on how I currently think about addiction highly informed by Marc's work.
 
 It is important to say that this model doesn't just apply to drugs.  This model applies to any behavior which induces pleasure in the body (or really any behavior at all).  
 
@@ -79,8 +79,8 @@ It is important to note that not all compulsions are bad.  When you sneeze, it i
 
 However, when it comes to drugs compulsions can be pretty tough. Compulsively using a drug is how we ignore harm reduction, do the drug all the time, damage our bodies, and ultimately find us on a downward spiral towards rock bottom.  
 
-I have compulsive behaviors with [[In Vivo/Allies/Nicotine]] and [[In Vivo/Allies/Cannabis]], and learning how to move these back to the habit stage has been some of the hardest work in my. life.  To accomplish it I needed a strategy.  In both cases, my strategy involves creating work.  
-With [[In Vivo/Allies/Cannabis]] I went from buying large amounts, .5-1 oz, at a time to buying 3.5 g. I would only buy it when I had an event that I wanted it for, whether that was a friend coming over or a party where I would want it.  And then I would let myself do the drug.  
+I have compulsive behaviors with [[Allies/Nicotine]] and [[Allies/Cannabis]], and learning how to move these back to the habit stage has been some of the hardest work in my. life.  To accomplish it I needed a strategy.  In both cases, my strategy involves creating work.  
+With [[Allies/Cannabis]] I went from buying large amounts, .5-1 oz, at a time to buying 3.5 g. I would only buy it when I had an event that I wanted it for, whether that was a friend coming over or a party where I would want it.  And then I would let myself do the drug.  
 
 I would still try not to do it all the time.  I would try to notice the ways that if I did it earlier in the day, it would cause me to fall asleep or other wise have a less productive day.  Noticing the ways that a drug doesn't align with my goals, particularly when I using it all day, was a very helpful way for me to find motivation to resist it. 
 
@@ -90,7 +90,7 @@ Over time, I have found that cannabis has slipped back into the habit stage. It 
 
 ##### Compulsive Redosing
 
-Some drugs induce a specific effect called compulsive redosing.  [[In Vivo/Allies/Nicotine]], [[In Vivo/Allies/Nitrous Oxide]], [[In Vivo/Allies/Ketamine]], [[In Vivo/Allies/Cocaine]], etc... There are a bunch, and interacting with drugs that have this property require a certain degree of skill to use them safely.  For me, I like to create a container when I'm doing a drug like this.  
+Some drugs induce a specific effect called compulsive redosing.  [[Allies/Nicotine]], [[Allies/Nitrous Oxide]], [[Allies/Ketamine]], [[Allies/Cocaine]], etc... There are a bunch, and interacting with drugs that have this property require a certain degree of skill to use them safely.  For me, I like to create a container when I'm doing a drug like this.  
 
 I first developed my strategy with Nitrous.  I found that when I sat down for a Nitrous session, that I would do all of it. No matter the amount.  If I gave myself 4 boxes, and I would do all of them.  And so, I introduced a system to manage this.  Instead of giving myself my entire stash to use during the session, I would pull out the amount I wanted to do, and leave the rest somewhere else.  Doesn't really matter where, just far enough away that I can't reach over and do it mid session.  And then I would do the box.  
 
@@ -105,4 +105,4 @@ Every experience is different.  Drug experiences are never fully predictable, an
 
 
 
-← [[In Vivo/Introduction|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Next]] →
+← [[Introduction|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Next]] →

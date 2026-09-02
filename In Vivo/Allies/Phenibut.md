@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Alcohol|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Depressants|Depressants]] · [[In Vivo/Allies/GHB|Next]] →
+← [[Allies/Alcohol|Previous]] · [[Table of Contents|Contents]] · [[Sections/Depressants|Depressants]] · [[Allies/GHB|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@ Oral - 1 gram - I mixed 1 gram of the powder with some tap water, gave it swirl,
 
 
 
-← [[In Vivo/Allies/Alcohol|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Depressants|Depressants]] · [[In Vivo/Allies/GHB|Next]] →
+← [[Allies/Alcohol|Previous]] · [[Table of Contents|Contents]] · [[Sections/Depressants|Depressants]] · [[Allies/GHB|Next]] →

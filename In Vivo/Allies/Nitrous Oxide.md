@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Ketamine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Dissociatives|Dissociatives]] · [[In Vivo/Sections/Depressants|Next]] →
+← [[Allies/Ketamine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Dissociatives|Dissociatives]] · [[Sections/Depressants|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/Ketamine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Dissociatives|Dissociatives]] · [[In Vivo/Sections/Depressants|Next]] →
+← [[Allies/Ketamine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Dissociatives|Dissociatives]] · [[Sections/Depressants|Next]] →

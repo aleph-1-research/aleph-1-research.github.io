@@ -1,11 +1,11 @@
-← [[In Vivo/Allies/Nitrous Oxide|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Alcohol|Next]] →
+← [[Allies/Nitrous Oxide|Previous]] · [[Table of Contents|Contents]] · [[Allies/Alcohol|Next]] →
 
 
 
-- [[In Vivo/Allies/Alcohol]]
-- [[In Vivo/Allies/Phenibut]]
-- [[In Vivo/Allies/GHB]]
+- [[Allies/Alcohol|Alcohol]]
+- [[Allies/Phenibut|Phenibut]]
+- [[Allies/GHB|GHB]]
 
 
 
-← [[In Vivo/Allies/Nitrous Oxide|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Allies/Alcohol|Next]] →
+← [[Allies/Nitrous Oxide|Previous]] · [[Table of Contents|Contents]] · [[Allies/Alcohol|Next]] →

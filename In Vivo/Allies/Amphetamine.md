@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/Nicotine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/3-MMC|Next]] →
+← [[Allies/Nicotine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/3-MMC|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/Nicotine|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/3-MMC|Next]] →
+← [[Allies/Nicotine|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/3-MMC|Next]] →

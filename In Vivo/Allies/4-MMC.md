@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/3-MMC|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/MDMA|Next]] →
+← [[Allies/3-MMC|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/MDMA|Next]] →
 
 ### Ingestion Methods
 
@@ -40,4 +40,4 @@ Two days after both I and my partner noticed that we were irritable in a way tha
 
 
 
-← [[In Vivo/Allies/3-MMC|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Allies/MDMA|Next]] →
+← [[Allies/3-MMC|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Allies/MDMA|Next]] →

@@ -1,4 +1,4 @@
-← [[In Vivo/Allies/4-MMC|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Sections/Polysubstances|Next]] →
+← [[Allies/4-MMC|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Sections/Polysubstances|Next]] →
 
 ### Ingestion Methods
 
@@ -21,4 +21,4 @@
 
 
 
-← [[In Vivo/Allies/4-MMC|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Stimulants|Stimulants]] · [[In Vivo/Sections/Polysubstances|Next]] →
+← [[Allies/4-MMC|Previous]] · [[Table of Contents|Contents]] · [[Sections/Stimulants|Stimulants]] · [[Sections/Polysubstances|Next]] →

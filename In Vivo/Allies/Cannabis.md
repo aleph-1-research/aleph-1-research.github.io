@@ -1,4 +1,4 @@
-← [[In Vivo/Sections/Psychedelics|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Psychedelics]] · [[In Vivo/Allies/Pscilocybin|Next]] →
+← [[Sections/Psychedelics|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Psychedelics]] · [[Allies/Pscilocybin|Next]] →
 
 
 
@@ -37,17 +37,17 @@ It has taken a lot of work, but with this particular plant I currently apply the
 
 ### Interactions
 
-I love the interaction between cannabis and [[In Vivo/Allies/LSD|LSD]]. I tend to wait until I've passed through the peak of the acid experience, and then consume cannabis to induce interesting visuals and bodily sensations.
+I love the interaction between cannabis and [[Allies/LSD|LSD]]. I tend to wait until I've passed through the peak of the acid experience, and then consume cannabis to induce interesting visuals and bodily sensations.
 
 A couple notes on this interaction.  Consuming cannabis prior to LSD, in my experience, tends to weaken the acid experience. I am unsure if this is some kind of cross-tolerance or some other effect, but if you want to maximize your acid experience then I would wait to consume the cannabis until after you've taken the acid.
 ### Experiments
 
-One of my most difficult psychedelic experiences was caused by the combination of [[In Vivo/Allies/LSD|LSD]], cannabis and [[In Vivo/Allies/Nitrous Oxide|Nitrous Oxide]]. I had taken a couple month tolerance break, and one Saturday I decided to indulge in some of my favorite chemicals at the time.  While peaking on acid I smoked a joint and did a handful of whippits. 
+One of my most difficult psychedelic experiences was caused by the combination of [[Allies/LSD|LSD]], cannabis and [[Allies/Nitrous Oxide|Nitrous Oxide]]. I had taken a couple month tolerance break, and one Saturday I decided to indulge in some of my favorite chemicals at the time.  While peaking on acid I smoked a joint and did a handful of whippits. 
 
 Very quickly I realized that something had gone wrong. My perception of sound became quite distorted, and an intense feeling within my awareness built until it became quite painful.  My mind became fixated on the idea that I had been poisoned. This experience persisted for a couple hours, which I spent pacing and laying in a low sensory environment.  When the experience finally broke, i was rewarded with a vision of the secret. But I'd say that particular experience was probably not worth the pain. 
 
-[^1]: [[In Vivo/Resources/PsychonautWiki|PsychonautWiki]]
+[^1]: [[Resources/PsychonautWiki|PsychonautWiki]]
 [^2]: https://www.leafly.com/learn/consume/edibles/what-is-decarboxylation
 
 
-← [[In Vivo/Sections/Psychedelics|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Psychedelics|Psychedelics]] · [[In Vivo/Allies/Pscilocybin|Next]] →
+← [[Sections/Psychedelics|Previous]] · [[Table of Contents|Contents]] · [[Sections/Psychedelics|Psychedelics]] · [[Allies/Pscilocybin|Next]] →

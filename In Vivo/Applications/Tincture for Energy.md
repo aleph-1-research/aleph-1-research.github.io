@@ -1,4 +1,4 @@
-← [[In Vivo/Sections/Applications|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Applications/Mosquito Repellent|Next]] →
+← [[Sections/Applications|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Applications/Mosquito Repellent|Next]] →
 
 
 
@@ -8,4 +8,4 @@ Equal parts Yerba Mate, Chocolate, and Lemon Balm.  Combine in jar with at least
 
 
 
-← [[In Vivo/Sections/Applications|Previous]] · [[In Vivo/Table of Contents|Contents]] · [[In Vivo/Sections/Applications|Applications]] · [[In Vivo/Applications/Mosquito Repellent|Next]] →
+← [[Sections/Applications|Previous]] · [[Table of Contents|Contents]] · [[Sections/Applications|Applications]] · [[Applications/Mosquito Repellent|Next]] →
